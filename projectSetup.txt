@@ -1,0 +1,18 @@
+Project Setup Step:
+
+1) Install Xampp server 
+
+2) paste 'http://localhost/phpmyadmin/' in new tab then enter user 'root' and passward blank 
+
+4) create database in phpmyadmin named as 'ofos' and import 'ofos.sql' file from project
+
+5) now  past  this url 'http://localhost/FoodOrderingSystem/index.php' in tab for open website.
+ 
+admin Email :- admin@gmail.com
+password :- admin
+
+5)for Paytm testing:
+mobile no:-7777777777 (10 times 7)
+OTP: - 489871
+
+
